@@ -1,2 +1,2 @@
-# Repozytorium do zajęć 
-## _"Narzędzia pracy zespołowej"_
+# NPZ_LAB2
+
